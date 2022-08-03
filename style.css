@@ -1,0 +1,39 @@
+body{
+          font-family: Arial;
+          margin: 0;
+}
+ul {
+          list-style-type: none;
+          margin: 0;
+          padding: 0;
+          overflow: hidden;
+          width: 100%;
+          background-color: rgb(227, 113, 7);
+}
+li a {
+          display: block;
+          padding: 25px;
+          color: rgb(0, 0, 0);
+          float: right;
+          border-left:1px solid white;
+}
+li h2{
+          padding-left: 30px;
+          padding-right: 30px;
+          color: white;
+}
+.active {
+          background-color: rgb(57, 13, 169);
+}
+.header {
+          padding: 60px;
+          text-align: center;
+          background: rgb(64, 50, 50);
+          color: rgb(255, 255, 255);
+          font-size: 30px;
+}
+.content {
+          padding:20px;
+          color:rgb(57, 13, 169) ;
+
+}
